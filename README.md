@@ -8,6 +8,7 @@ Website which allows the user to query for properties in UK
 - [Dev setup](#dev-setup-index)
 - [How to run](#how-to-run-index)
 - [Features](#features-index)
+- [Site demo](#site-demo-index)
 - [Challenges and Future scope](#challenges-and-future-scope-index)
 - [Credits](#credits-index)
 
@@ -116,6 +117,9 @@ Assuming that you already have dev env set up, follow the instructions below:
   - list of similar sold properties in the area
   - list of similar for sale properties in the area
   - list of similar for rent properties in the area
+  
+## Site demo [[Index](#index)]
+  ![Site demo gif](Demo.gif)
   
 ## Challenges and Future scope [[Index](#index)]
 - This project uses `Zoopla` API (the free version, which allows you to query 100 times in an hour). This API is no longer under maintainance. May be some other APIs can be used for a better development exerience.
