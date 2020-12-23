@@ -7,8 +7,9 @@ Website which allows the user to query for properties in UK
 - [Tech used](#tech-used-index)
 - [Dev setup](#dev-setup-index)
 - [How to run](#how-to-run-index)
-- [Features](#features-index)
+- [Installation demo](#installation-demo-index)
 - [Site demo](#site-demo-index)
+- [Features](#features-index)
 - [Challenges and Future scope](#challenges-and-future-scope-index)
 - [Credits](#credits-index)
 
@@ -99,6 +100,12 @@ Assuming that you already have dev env set up, follow the instructions below:
   - Run `npm install`. This will create a new folder `node_modules` and install all the necessary packages. **Note that this would be done only once.**
   - Run `npm start` to render your website. The site is rendered at port `3000` i.e. at [http://localhost:3000/](http://localhost:3000/)
 
+## Installation demo [[Index](#index)]
+  ![Installation demo gif](Installation.gif)
+  
+## Site demo [[Index](#index)]
+  ![Site demo gif](Demo.gif)
+
 ## Features [[Index](#index)]
 - User can query using various properties:
   - minimum and maximum price
@@ -117,9 +124,6 @@ Assuming that you already have dev env set up, follow the instructions below:
   - list of similar sold properties in the area
   - list of similar for sale properties in the area
   - list of similar for rent properties in the area
-  
-## Site demo [[Index](#index)]
-  ![Site demo gif](Demo.gif)
   
 ## Challenges and Future scope [[Index](#index)]
 - This project uses `Zoopla` API (the free version, which allows you to query 100 times in an hour). This API is no longer under maintainance. May be some other APIs can be used for a better development exerience.
