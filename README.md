@@ -49,7 +49,7 @@ Website which allows the user to query for properties in UK
     └── setupTests.js
 ```
 - [queryForm.jsx](/src/Components/queryForm.jsx) contains the code for the webpage where user would fill the details for the property (like the area, search radius, flat/house/etc, price range, etc).
-- [result.jsx](/src/Components/results.jsx) contains the code which renders the result that is returned by the web-service (which uses `Zoopla` API to fetch the properties). It also implements the logic for paging, sorting, downloading, etc.
+- [result.jsx](/src/Components/result.jsx) contains the code which renders the result that is returned by the web-service (which uses `Zoopla` API to fetch the properties). It also implements the logic for paging, sorting, downloading, etc.
 - [detailsPage.jsx](/src/Components/detailsPage.jsx) contains the code which renders the complete details of a particular property that the user is interested in (which he would be able to select from the results)
 - [property_search.py](/property_search.py) uses the `Zoopla` API to fetch the results based on the query of the user. 
 - [server.py](/server.py) implements the web-service which is queried from `queryForm.jsx`
