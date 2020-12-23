@@ -22,6 +22,8 @@ Website which allows the user to query for properties in UK
 ## Directory structure [[Index](#index)]
 ```bash
 .
+├── Demo.gif
+├── Installation.gif
 ├── README.md
 ├── package-lock.json
 ├── package.json
