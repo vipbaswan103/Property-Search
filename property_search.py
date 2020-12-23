@@ -80,7 +80,7 @@ def fill_keywords(prop_details):
 
 
 def search_properties(prop_details):
-    print(prop_details)
+    # print(prop_details)
     # print(type(prop_details))
     prop_details = fill_keywords(prop_details)
     # print(type(prop_details))
