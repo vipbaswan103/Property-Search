@@ -15,9 +15,9 @@ Website which allows the user to query for properties in UK
 
 ## Objectives [[Index](#index)]
 - Create a website which allows user to search for property near an area selected (in UK only)
-- Display all the properties matching the requirements (various filters are provided for this) to the user. Allow the user to download the resuls in an excel file. 
+- Display all the properties matching the requirements (various filters are provided for this) to the user. Allow the user to download the results in an excel file. 
 - Allow user to sort (in ascending or descending) the property results based on various criteria (like price)
-- Allow user to view the details of a particular property selected from all the property results. The details would show features of the property and the neigbourhood. User would also be able to view various properties similar to the one selected
+- Allow user to view the details of a particular property selected from all the property results. The details would show features of the property and the neigborhood. User would also be able to view various properties similar to the one selected
 
 ## Directory structure [[Index](#index)]
 ```bash
